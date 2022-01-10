@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = kramer.markus@posteo.de
+	name = Markus Kramer
